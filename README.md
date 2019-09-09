@@ -17,8 +17,8 @@ As you learn how to use new tools that could be useful for CTF's please add them
 ## PWN
 ## Interactions
 - [pwntools](http://docs.pwntools.com/en/stable/) - Python library for interacting with challenges, has extensions for python 2.7 and 3+
-    \~ Has modules for ssh, nc, gdb, loading binaries for rop and disassembly
-    \~ Used in most writeups or the code for writeups relating to pwning
+    - Has modules for ssh, nc, gdb, loading binaries for rop and disassembly
+    - Used in most writeups or the code for writeups relating to pwning
 ### Debuggers and Extensions
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
 - [GEF](https://gef.readthedocs.io/en/master/) - GDB Enhanced Features GDB plugin that is like PEDA but all source is in one file and is better
@@ -58,11 +58,11 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Can be used to search a given binary image for embedded files and executable code.
 - foremost - Navy's version of Binwalk (may catch something binwalk misses)
 - [stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Can be used to find hidden information in files
-    ~ Used to solve a hackthebox stego challenge
+    - Used to solve a hackthebox stego challenge
 - [zsteg](https://github.com/zed-0xff/zsteg) - Can be used to find steganography in png and bmp files
-    ~ Used during affinity CTF to find hidden information
+    - Used during affinity CTF to find hidden information
 - [stegoveritas](https://github.com/bannsec/stegoVeritas) - Similar to zsteg
-    ~ Used during affinity CTF to find hidden information
+    - Used during affinity CTF to find hidden information
 
 
 ## Forensics

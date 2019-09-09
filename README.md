@@ -15,8 +15,13 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
 
 ## PWN
+## Interactions
+- [pwntools](http://docs.pwntools.com/en/stable/) - Python library for interacting with challenges, has extensions for python 2.7 and 3+
+    ~ Has modules for ssh, nc, gdb, loading binaries for rop and disassembly
+    ~ Used in most writeups or the code for writeups relating to pwning
 ### Debuggers and Extensions
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
+- [GEF](https://gef.readthedocs.io/en/master/) - GDB Enhanced Features GDB plugin that is like PEDA but all source is in one file and is better
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
 
 ### Disasemblers/Decompilers
@@ -51,12 +56,21 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [StegOnline](https://georgeom.net/StegOnline/upload) - Stego solver
 - [steghide](https://github.com/StefanoDeVuono/steghide) - hides and extracts data from files.
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Can be used to search a given binary image for embedded files and executable code.
+- foremost - Navy's version of Binwalk (may catch something binwalk misses)
+- [stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Can be used to find hidden information in files
+    ~ Used to solve a hackthebox stego challenge
+- [zsteg](https://github.com/zed-0xff/zsteg) - Can be used to find steganography in png and bmp files
+    ~ Used during affinity CTF to find hidden information
+- [stegoveritas](https://github.com/bannsec/stegoVeritas) - Similar to zsteg
+    ~ Used during affinity CTF to find hidden information
 
 
 ## Forensics
+- [volatility](https://www.volatilityfoundation.org/) - Common forensics tool for system memory dumps (can be finiky)
 
 ## OSINT/Trivia
 - [Google dorking](https://securitytrails.com/blog/google-hacking-techniques) - Using google to find things you shouldn't.
+- [Shodan](https://www.shodan.io/) - Online webscanner service (note you do not have permission to view actual services; BE CAREFUL)
 
 ## Misc
 - [Webhook Tester](https://webhook.site) - Useful for getting web requests to a public site without creating one

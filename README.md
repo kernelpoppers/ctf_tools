@@ -17,8 +17,8 @@ As you learn how to use new tools that could be useful for CTF's please add them
 ## PWN
 ## Interactions
 - [pwntools](http://docs.pwntools.com/en/stable/) - Python library for interacting with challenges, has extensions for python 2.7 and 3+
-    ~ Has modules for ssh, nc, gdb, loading binaries for rop and disassembly
-    ~ Used in most writeups or the code for writeups relating to pwning
+    \~ Has modules for ssh, nc, gdb, loading binaries for rop and disassembly
+    \~ Used in most writeups or the code for writeups relating to pwning
 ### Debuggers and Extensions
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
 - [GEF](https://gef.readthedocs.io/en/master/) - GDB Enhanced Features GDB plugin that is like PEDA but all source is in one file and is better

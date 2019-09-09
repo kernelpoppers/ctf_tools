@@ -8,6 +8,7 @@ As you learn how to use new tools that could be useful for CTF's please add them
 ### Things you may want to consider adding with your contribution
 * Short details of the challenge it helped solve
 * Command line arguments and how you used them
+* Use links for useful webpages instead of their homepage
 * Anything else you think could be helpful
 
 ## All Around Tools
@@ -66,7 +67,7 @@ As you learn how to use new tools that could be useful for CTF's please add them
 
 
 ## Forensics
-- [volatility](https://www.volatilityfoundation.org/) - Common forensics tool for system memory dumps (can be finiky)
+- [volatility](https://github.com/volatilityfoundation/volatility) - Common forensics tool for system memory dumps (can be finiky)
 
 ## OSINT/Trivia
 - [Google dorking](https://securitytrails.com/blog/google-hacking-techniques) - Using google to find things you shouldn't.

@@ -38,8 +38,7 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
-
-
+- Nikto - Open Source (GPL) web server scanner which performs comprehensive tests against web servers
 
 ## Networking
 - [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
@@ -50,10 +49,14 @@ As you learn how to use new tools that could be useful for CTF's please add them
 ## Stegonagraphy
 - [Stego Checklist](https://georgeom.net/StegOnline/checklist) - Checklist for solving stego challenges
 - [StegOnline](https://georgeom.net/StegOnline/upload) - Stego solver
+- [steghide](https://github.com/StefanoDeVuono/steghide) - hides and extracts data from files.
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Can be used to search a given binary image for embedded files and executable code.
+
 
 ## Forensics
 
 ## OSINT/Trivia
+- [Google dorking](https://securitytrails.com/blog/google-hacking-techniques) - Using google to find things you shouldn't.
 
 ## Misc
 - [Webhook Tester](https://webhook.site) - Useful for getting web requests to a public site without creating one

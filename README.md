@@ -33,3 +33,6 @@ As you learn how to use new tools that could be useful for CTF's please add them
 ## OSINT/Trivia
 
 ## Misc
+
+
+##### Inspiration from https://github.com/apsdehal/awesome-ctf

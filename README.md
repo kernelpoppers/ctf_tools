@@ -35,6 +35,18 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
 
+### Exploits
+- [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
+- [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
+- [Metasploit](http://www.metasploit.com/) - Penetration testing software
+  - [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
+- [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call
+  - `gem install one_gadget`
+- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
+- [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
+- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
+- [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit
+
 ## Web
 ### Proxy
 - [BurpSuite]() - A graphical tool to testing website security. 
@@ -51,6 +63,12 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
 
 ## Cryptography
+- [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
+- [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
+- [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
+- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack
+- [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
+- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 
 ## Stegonagraphy
 - [Stego Checklist](https://georgeom.net/StegOnline/checklist) - Checklist for solving stego challenges
@@ -65,17 +83,19 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [stegoveritas](https://github.com/bannsec/stegoVeritas) - Similar to zsteg
     - Used during affinity CTF to find hidden information
 
-
 ## Forensics
 - [volatility](https://github.com/volatilityfoundation/volatility) - Common forensics tool for system memory dumps (can be finiky)
 
 ## OSINT/Trivia
 - [Google dorking](https://securitytrails.com/blog/google-hacking-techniques) - Using google to find things you shouldn't.
 - [Shodan](https://www.shodan.io/) - Online webscanner service (note you do not have permission to view actual services; BE CAREFUL)
+- [Censys](https://censys.io/) - Online scanner for websites and certificates
 
 ## Misc
 - [Webhook Tester](https://webhook.site) - Useful for getting web requests to a public site without creating one
 - [wiggle](https://wigle.net/) - Online wardriving site. Gives access to wifi network information across the contry
     - used on NCL past 2 seasons
+
+
 
 ##### Inspiration from https://github.com/apsdehal/awesome-ctf

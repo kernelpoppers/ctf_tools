@@ -75,7 +75,7 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [StegOnline](https://georgeom.net/StegOnline/upload) - Stego solver
 - [steghide](https://github.com/StefanoDeVuono/steghide) - hides and extracts data from files.
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Can be used to search a given binary image for embedded files and executable code.
-- foremost - Navy's version of Binwalk (may catch something binwalk misses)
+- [foremost](https://tools.kali.org/forensics/foremost) - Navy's version of Binwalk (may catch something binwalk misses)
 - [stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Can be used to find hidden information in files
     - Used to solve a hackthebox stego challenge
 - [zsteg](https://github.com/zed-0xff/zsteg) - Can be used to find steganography in png and bmp files

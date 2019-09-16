@@ -57,6 +57,8 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
 - Nikto - Open Source (GPL) web server scanner which performs comprehensive tests against web servers
+- [JSONBee](https://github.com/zigoo0/JSONBee) - A ready to use JSONP endpoints to help bypass content security policy of different websites.
+- [Google CSP Evaluator](https://csp-evaluator.withgoogle.com) - CSP Evaluator allows developers and security experts to check if a Content Security Policy (CSP) serves as a strong mitigation against cross-site scripting attacks.
 
 ## Networking
 - [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.

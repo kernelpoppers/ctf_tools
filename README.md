@@ -63,11 +63,14 @@ As you learn how to use new tools that could be useful for CTF's please add them
 ## Networking
 - [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
+- [tshark](https://www.wireshark.org/docs/man-pages/tshark.html) - Analyze dumps from the commandline.
+- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - Nice auto gui for Network Traffic Analysis. Good for finding files and sessions.
 
 ## Cryptography
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
 - [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
+- [fcrackzip](http://manpages.ubuntu.com/manpages/trusty/man1/fcrackzip.1.html) - a Free/Fast Zip Password Cracker
 - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
@@ -76,6 +79,7 @@ As you learn how to use new tools that could be useful for CTF's please add them
 - [Stego Checklist](https://georgeom.net/StegOnline/checklist) - Checklist for solving stego challenges
 - [StegOnline](https://georgeom.net/StegOnline/upload) - Stego solver
 - [steghide](https://github.com/StefanoDeVuono/steghide) - hides and extracts data from files.
+- [stegdetect](https://linux.die.net/man/1/stegdetect) - Runs statistical tests to determine if steganographic content is present and tries to figure out how.
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Can be used to search a given binary image for embedded files and executable code.
 - [foremost](https://tools.kali.org/forensics/foremost) - Navy's version of Binwalk (may catch something binwalk misses)
 - [stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Can be used to find hidden information in files
@@ -87,6 +91,7 @@ As you learn how to use new tools that could be useful for CTF's please add them
 
 ## Forensics
 - [volatility](https://github.com/volatilityfoundation/volatility) - Common forensics tool for system memory dumps (can be finiky)
+- [pspy](https://github.com/DominicBreuker/pspy) - Low privilege process snooper
 
 ## OSINT/Trivia
 - [Google dorking](https://securitytrails.com/blog/google-hacking-techniques) - Using google to find things you shouldn't.

@@ -63,6 +63,8 @@ As you learn how to use new tools that could be useful for CTF's please add them
 ## Networking
 - [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
+- [tshark](https://www.wireshark.org/docs/man-pages/tshark.html) - Analyze dumps from the commandline.
+- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - Nice auto gui for Network Traffic Analysis. Good for finding files and sessions.
 
 ## Cryptography
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
@@ -89,6 +91,7 @@ As you learn how to use new tools that could be useful for CTF's please add them
 
 ## Forensics
 - [volatility](https://github.com/volatilityfoundation/volatility) - Common forensics tool for system memory dumps (can be finiky)
+- [pspy](https://github.com/DominicBreuker/pspy) - Low privilege process snooper
 
 ## OSINT/Trivia
 - [Google dorking](https://securitytrails.com/blog/google-hacking-techniques) - Using google to find things you shouldn't.

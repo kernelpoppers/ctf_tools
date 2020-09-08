@@ -13,6 +13,7 @@ As you learn how to use new tools that could be useful for CTF's please add them
 
 ## All Around Tools
 - [CyberChef](https://gchq.github.io/CyberChef/) - All around usage tool for transforming data
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Commandline tool that attempts to automatically determine a cipher and output the result.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
 
 ## PWN
